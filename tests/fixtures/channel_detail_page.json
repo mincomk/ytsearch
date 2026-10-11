@@ -1,0 +1,532 @@
+{
+  "onResponseReceivedEndpoints": [
+    {
+      "clickTrackingParams": "CAAQhGciEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+      "appendContinuationItemsAction": {
+        "continuationItems": [
+          {
+            "aboutChannelRenderer": {
+              "metadata": {
+                "aboutChannelViewModel": {
+                  "description": "마인크래프트를 비롯한 다양한 게임들을\n재밌는 콘텐츠로 만들고 있습니다😄\n\n[비즈니스 문의] : contact@asmbl.kr\n[기타 문의] : skhh1221@gmail.com\n\n구독하기 버튼과 알림 버튼을 누르시면 매일 재밌는 영상을\n*제일 먼저* 만나보실 수 있습니다!\n우리 꿈뜰이분들, 시청자분들 항상 감사드려요\n\n#마인크래프트 #게임 \n",
+                  "descriptionLabel": {
+                    "content": "설명",
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 2
+                      }
+                    ]
+                  },
+                  "country": "대한민국",
+                  "customLinksLabel": {
+                    "content": "링크",
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 2
+                      }
+                    ]
+                  },
+                  "subscriberCountText": "구독자 238만명",
+                  "viewCountText": "조회수 4,372,270,606회",
+                  "joinedDateText": {
+                    "content": "가입일: 2014. 5. 23.",
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 17
+                      }
+                    ]
+                  },
+                  "canonicalChannelUrl": "http://www.youtube.com/@sleepground",
+                  "channelId": "UCg7rkxrTnIhiHEpXY1ec9NA",
+                  "additionalInfoLabel": {
+                    "content": "추가 정보",
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 5
+                      }
+                    ]
+                  },
+                  "customUrlOnTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CAYQo4sSIhMI15_QkaySlAMVIE0PAh1cTQeEygEESwe-pw==",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "ignoreNavigation": true
+                        }
+                      },
+                      "shareEntityEndpoint": {
+                        "serializedShareEntity": "GhhVQ2c3cmt4clRuSWhpSEVwWFkxZWM5TkE%3D",
+                        "sharePanelType": "SHARE_PANEL_TYPE_UNIFIED_SHARE_PANEL"
+                      }
+                    }
+                  },
+                  "videoCountText": "동영상 4,514개",
+                  "signInForBusinessEmail": {
+                    "content": "이메일 주소를 보려면 로그인하세요.",
+                    "commandRuns": [
+                      {
+                        "startIndex": 12,
+                        "length": 3,
+                        "onTap": {
+                          "innertubeCommand": {
+                            "clickTrackingParams": "CAYQo4sSIhMI15_QkaySlAMVIE0PAh1cTQeEygEESwe-pw==",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dko%26next%3D%252F%2540sleepground&hl=ko",
+                                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                "rootVe": 83769
+                              }
+                            },
+                            "signInEndpoint": {
+                              "nextEndpoint": {
+                                "clickTrackingParams": "CAYQo4sSIhMI15_QkaySlAMVIE0PAh1cTQeEygEESwe-pw==",
+                                "commandMetadata": {
+                                  "webCommandMetadata": {
+                                    "url": "/@sleepground",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                  }
+                                },
+                                "browseEndpoint": {
+                                  "browseId": "UCg7rkxrTnIhiHEpXY1ec9NA",
+                                  "params": "8gYECgIyAA%3D%3D",
+                                  "canonicalBaseUrl": "/@sleepground"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ],
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 19
+                      }
+                    ]
+                  },
+                  "links": [
+                    {
+                      "channelExternalLinkViewModel": {
+                        "title": {
+                          "content": "구독하기!"
+                        },
+                        "link": {
+                          "content": "youtube.com/subscription_center?add_user=sleepground",
+                          "commandRuns": [
+                            {
+                              "startIndex": 0,
+                              "length": 52,
+                              "onTap": {
+                                "innertubeCommand": {
+                                  "clickTrackingParams": "CAkQobIHGAAiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "url": "http://www.youtube.com/subscription_center?add_user=sleepground",
+                                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                      "rootVe": 83769
+                                    }
+                                  },
+                                  "urlEndpoint": {
+                                    "url": "http://www.youtube.com/subscription_center?add_user=sleepground",
+                                    "nofollow": true
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "favicon": {
+                          "sources": [
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTW8jU5Fk2MHdyRHnwGy8d6efPoXTgKiJinlZ6NzsgTzpV2rV3UvZA0C5fckRBi8t71xNpuNnvWXb3K_SXITSMBov38bi1AyWvbZgfvmM1NZbAPOw",
+                              "width": 16,
+                              "height": 16
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ8DpFkkFvSEtxgaxUaJ9src3appmAGG7Dq92HDXylFE4dHD412t02ndKkIr53yaN9y8LC1N2vUVV1sEusemTL8jBkUK5-Wz2XZ9u1QiuuVVRMhMg",
+                              "width": 24,
+                              "height": 24
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRUKULVf5j_BeKXymAY4Y_UChuqO8YrLGBdkwBf2JaGnXfztdq1OEYQi6Oua73VurFURJDYOuzKDhHm1G-2OYVEvK_CNMVrFKi-OmFeudVSPZFjkw",
+                              "width": 32,
+                              "height": 32
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQyAxIDOI21GvM6luzp_xQ2zvIvNprEhrTVWptFry_lIOKTHNtpNY8dXwaeWBu4X1fWroK4qgWsfuqNkDQ8rNCmshDhLJJ67VrYNdSvnK1rXJgKuA",
+                              "width": 48,
+                              "height": 48
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcT8fcwKaJt1uCGP5RdA-mPSV4SINYFCK4clZVB5xN2NmqmuUgbbf7I_kiGDEADVsxCiRmhnbQWIwFkUfHLPFaXse_xkwYdTdyjDWOR3PymI_Te7tg",
+                              "width": 50,
+                              "height": 50
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcShzwwyB0GYWyLY3-_vImFUUQ1zfIjDxWNLR3sHS05HiUD9tH_-iwq1ZMZSL9TpEB7hJcrTkJlYobpZRU2l33breJqn4DUJCjQkF9-D4K3e3ytmRA",
+                              "width": 64,
+                              "height": 64
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTmT9K8aWBRCEj696BKVe-IljwfYL1TrEBPqIdoGTMQBdKkewzzoCgdmLYNI7Z-ysbZ4xV0sqQzdb5eHYI-qiJ9XwQ3F_a09wX1Qhsc0b4XODbdSw",
+                              "width": 96,
+                              "height": 96
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSuzdsVwYkyNV_8amAFDVEzru9TFL9uch81xVmfJ9UmH4ZDV5p_PPhPgfA05Usvm9Jy3m6AMIPl1DdbUGpOimC2A8UxtwSyT2YDl-44I590wWUluBc",
+                              "width": 128,
+                              "height": 128
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpUDTcAVqtRl3Nw2ANVFp4AfDWpKqZ-VLbl9bk-rRoCSW3GcFMdHsGsCPWP_rPqH4JVzkokbjiT7SGt1zxv2iVNEm8kugAKrrYdMzDJoFjh1rduNk",
+                              "width": 180,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFff56m5HJYBhTCQ3ifqzGSGWpsdm6i6vI_4e86df8dk3b9DEmAdKZ-qwlq7NoRQ6Ab4LGae4C2G2bn4VCdDi39i8o8pWfyU_nxAvZF0kF93kpnN4",
+                              "width": 256,
+                              "height": 256
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "channelExternalLinkViewModel": {
+                        "title": {
+                          "content": "Instagram"
+                        },
+                        "link": {
+                          "content": "instagram.com/sleepground",
+                          "commandRuns": [
+                            {
+                              "startIndex": 0,
+                              "length": 25,
+                              "onTap": {
+                                "innertubeCommand": {
+                                  "clickTrackingParams": "CAgQobIHGAEiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "url": "https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbTcwOXFsSkMzeF9FLUM5c25fYXpsZmNlY1hVQXxBQ3Jtc0ttTTBEMGp4dkszOTBqQ19sSjJIMHhlc1JvSUtoYXUyOVBSYXNpYW1IOEd5TTRzYUJyRXFHXzI4elpjdENTU25uRWtMUjV1WnJxV0g2c1AwVmFidmdBUTRwa0hIdk5VSVVjN3ZtR2tQR0dod2k2alE2RQ&q=http%3A%2F%2Finstagram.com%2Fsleepground",
+                                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                      "rootVe": 83769
+                                    }
+                                  },
+                                  "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbTcwOXFsSkMzeF9FLUM5c25fYXpsZmNlY1hVQXxBQ3Jtc0ttTTBEMGp4dkszOTBqQ19sSjJIMHhlc1JvSUtoYXUyOVBSYXNpYW1IOEd5TTRzYUJyRXFHXzI4elpjdENTU25uRWtMUjV1WnJxV0g2c1AwVmFidmdBUTRwa0hIdk5VSVVjN3ZtR2tQR0dod2k2alE2RQ&q=http%3A%2F%2Finstagram.com%2Fsleepground",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "favicon": {
+                          "sources": [
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRdti9m7KoIFPIOdIM1ETap48aWxnf625x-rSwy4zPiYJrlTIOympu-Y9Iw0Wf9y9GoyiGDSy9V-rslcuw41xcb0SMvrIE-_hR-cj68I69o8vg",
+                              "width": 16,
+                              "height": 16
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRT7bLbs25kzRtg95XuqrP5BcIN_09v9NhchUsyUvmHepVLvHkha5XVvy8IcGVGk19j0hxDOh9RoZvbi4RDc4BdVP6ZD3vVSUqF5v7jnLM_tlk",
+                              "width": 24,
+                              "height": 24
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTeR-a9lxFpbI_ly2gq8aO8BXnz1p-K90Hl2s9WZgbbK2zVCH_ukCeqfWNbebEV5BlEGSUTO3VoHPxXq1y8r7nz6pV63kFMKF4hw_U954LRO-U",
+                              "width": 32,
+                              "height": 32
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT-RClfbPqw5XGimknIiRuIJ-kbzsVuVJREcXGFmgjhHUAWZqsLqu9JuNrOeCifPnETIEoHJh9c_7Y3fUX-H6DKRnQK1ivj_am-uYWoNKQGOCc",
+                              "width": 48,
+                              "height": 48
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSuyvT3n3sARNqUi7gpqAa4X5ZZ3AOswVNUJHJhzryBxuTLa4KE5o86Up5qQD8RwzmI2s_8cSnivfW9DQvCSgbM6M0InegTwkTWtlL-cpyLAkA",
+                              "width": 50,
+                              "height": 50
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpueDkPZv3LZdmkj2-Jzk3U9QexBUVmEgwnR4gv6nXFVrgV8x3_n1pR4jiEtllmS2JjmEOqh3qsH5zlN83JHcXzQ-3KD-XU_-u85oyvQ8YSWY",
+                              "width": 64,
+                              "height": 64
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQea5NELC30dqQWpedlc_waL7NTKMOSBSTw_a4-gPU9L1UpztOcVe1kfOLOJUiL4p4j4qIzQL5A7jDS17lWT4MFU8Kfq2JSfBAGoZTqQ8RwQgs",
+                              "width": 96,
+                              "height": 96
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRGnemaiO5W7BXblRSSP5p6gnJdnuRwOSI61XEzc-ZdVw73PTrFKbnNvLBQGakl7eM4EY-Se3LN5Ftr3Hhs_tm3_DD9w8HJTAKih0ouquHyJjtt",
+                              "width": 128,
+                              "height": 128
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTI-KWAleUtvl7HV4VRP4eFC_KitqurKS04pG57JugsVmjSimWyyUNUjbVFnq8biHs4VngWGGCqnZTZ9BhxhhHKoip_jISZJX27GO7g8RXUkMka",
+                              "width": 180,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR500s6FL57_Xie_KSTGrBe1A_81ijagRiZPw6k8d97-e98oafeea1stWI4sU1L-xvHCsA3v_oPDzdKn2Aqz8Aobnu7euGad1K7r9f3BYBBwC9C",
+                              "width": 256,
+                              "height": 256
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "channelExternalLinkViewModel": {
+                        "title": {
+                          "content": "치지직"
+                        },
+                        "link": {
+                          "content": "chzzk.naver.com/2a6dc61c4f1706e73f31dea7779bb547",
+                          "commandRuns": [
+                            {
+                              "startIndex": 0,
+                              "length": 48,
+                              "onTap": {
+                                "innertubeCommand": {
+                                  "clickTrackingParams": "CAcQobIHGAIiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                  "commandMetadata": {
+                                    "webCommandMetadata": {
+                                      "url": "https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqblVJTzV1X25wSmRvM25TTHBCUTNuZzZNNmxnUXxBQ3Jtc0ttVi1zMVYxRlF6SVNsSFdod0Z1T0c5U0h1M0VfT3BsdzhpenZuRnlEeEhvNzMzUVA1ekZnTVdXaDFYUERpTGx1a1VpWXd0NDFQYzVnaVdic3lXWURJUkxWYWd0bWUzTmk3SGNtME9jZ0M3QUp1MmdlSQ&q=https%3A%2F%2Fchzzk.naver.com%2F2a6dc61c4f1706e73f31dea7779bb547",
+                                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                      "rootVe": 83769
+                                    }
+                                  },
+                                  "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqblVJTzV1X25wSmRvM25TTHBCUTNuZzZNNmxnUXxBQ3Jtc0ttVi1zMVYxRlF6SVNsSFdod0Z1T0c5U0h1M0VfT3BsdzhpenZuRnlEeEhvNzMzUVA1ekZnTVdXaDFYUERpTGx1a1VpWXd0NDFQYzVnaVdic3lXWURJUkxWYWd0bWUzTmk3SGNtME9jZ0M3QUp1MmdlSQ&q=https%3A%2F%2Fchzzk.naver.com%2F2a6dc61c4f1706e73f31dea7779bb547",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "favicon": {
+                          "sources": [
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMAA9UAK8RS5lfyh61oai4pR2Si5jYsgZdRaFKi_QeCC9mvsDbHLfD1nwlioRgJY3_YjAPi94BpLhMBhqTiXvpR14z6DvTQmjoAKvGoJzrT6xDUl4",
+                              "width": 16,
+                              "height": 16
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRYPzUSkxvL41OqaFJiffLcg-jx2EjjV7m1OxSG4HA4qseIVd4Y4XrREh2kndpcwxEL3glT2djOXZJEqli3hFTSoA3qaIoZQENR5TN2KNOSrNZZ83I",
+                              "width": 24,
+                              "height": 24
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcREL14mhAdelvQGbXp3Xx9Y31wxAXZsxvqAjeDIwWZEFJurW4oB1PwxwfI8FyegmsuM6xhEY4VQQYOghWO41LHcGXNLzuZ3L6XGlXphUmkI9rUvNd8",
+                              "width": 32,
+                              "height": 32
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRXZWjxx8ucVCgkDXSTHy7n87DdvVKN3DDX401fFd70ouhls0xkvvw1cdP-e6dPBDVfYte_LghYnH-RwSwi6JFgga8PtH7XSVI_0N9awGBgcj_xCEs",
+                              "width": 48,
+                              "height": 48
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRjgDWm3yw9losbjlShZXGJa1JKiMHEUbEnltQO4yYO--1jySJ3m12ZREinJc5Qf1PsZACPZNo1rRni6jq2dTkDsIstxoaNWX-aGwSfNTHhn6zzKR8",
+                              "width": 50,
+                              "height": 50
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRVPJJueNpaTNCxO2BkAVaTBmzm5CTTCCAmQdCue15acvtG7RQaU2DBbr_qr7wSkRmya9GgNj4iBFf6KeSy5GXamEPRk74GA2ASKpzP0kuXfFaazSw",
+                              "width": 64,
+                              "height": 64
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5z6gitBxPRnajxlmEmAYqI0j_issmNEJ6v9xJibW_4f4ML94KjIXeZG88hJnam1-MkVpNF2RQLb8JYSuOWHXGWVjP5su_Qt7ska4eSgukznlO2lk",
+                              "width": 96,
+                              "height": 96
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTtUYypLOg0VKK3a9_LbADajWVhNnF9oNP1WOonOp87cvQNYTLaIdOIkHWZS47USjL3BxszEhCcI_OwQV8mDBxT7PTC4hrG7xPL0Dufm2BrXiNDy6f1",
+                              "width": 128,
+                              "height": 128
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTHpIP5azwOUp-Nb4Mb3msqfc70SRFv-fLbWwCmpWl2FIfaUxPr1gnbEasfmqwBOv56vO9MT3KXyqXnnczDCAIZIh2tHAhI6erZ7secJSckbrKH4C7E",
+                              "width": 180,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRs0Iff38TXqnsTvou2Dbxzw4IyDdd7iSP8F9DwwbWLDDi50wpj4ATrqdpgnTPf-7gvxojOAJlRkKlXfOcKH8jXC_VNti5vmcVBhxrY3ndnET9lY_7e",
+                              "width": 256,
+                              "height": 256
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "displayCanonicalChannelUrl": "www.youtube.com/@sleepground",
+                  "rendererContext": {
+                    "loggingContext": {
+                      "loggingDirectives": {
+                        "trackingParams": "CAYQo4sSIhMI15_QkaySlAMVIE0PAh1cTQeE",
+                        "visibility": {
+                          "types": "12"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "shareChannel": {
+                "buttonRenderer": {
+                  "style": "STYLE_DEFAULT",
+                  "size": "SIZE_DEFAULT",
+                  "text": {
+                    "runs": [
+                      {
+                        "text": "채널 공유"
+                      }
+                    ]
+                  },
+                  "icon": {
+                    "iconType": "SHARE"
+                  },
+                  "trackingParams": "CAEQ8FsiEwjXn9CRrJKUAxUgTQ8CHVxNB4Q=",
+                  "accessibilityData": {
+                    "accessibilityData": {
+                      "label": "채널 공유"
+                    }
+                  },
+                  "command": {
+                    "clickTrackingParams": "CAEQ8FsiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAEQ8FsiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                          "openPopupAction": {
+                            "popup": {
+                              "menuPopupRenderer": {
+                                "items": [
+                                  {
+                                    "menuServiceItemRenderer": {
+                                      "text": {
+                                        "runs": [
+                                          {
+                                            "text": "채널 공유"
+                                          }
+                                        ]
+                                      },
+                                      "trackingParams": "CAQQ0rYLGAEiEwjXn9CRrJKUAxUgTQ8CHVxNB4Q=",
+                                      "command": {
+                                        "clickTrackingParams": "CAQQ0rYLGAEiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                        "commandMetadata": {
+                                          "webCommandMetadata": {
+                                            "sendPost": true,
+                                            "apiUrl": "/youtubei/v1/share/get_share_panel"
+                                          }
+                                        },
+                                        "shareEntityServiceEndpoint": {
+                                          "serializedShareEntity": "GhhVQ2c3cmt4clRuSWhpSEVwWFkxZWM5TkE%3D",
+                                          "commands": [
+                                            {
+                                              "clickTrackingParams": "CAQQ0rYLGAEiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                              "openPopupAction": {
+                                                "popup": {
+                                                  "unifiedSharePanelRenderer": {
+                                                    "trackingParams": "CAUQjmIiEwjXn9CRrJKUAxUgTQ8CHVxNB4Q=",
+                                                    "showLoadingSpinner": true
+                                                  }
+                                                },
+                                                "popupType": "DIALOG",
+                                                "beReused": true
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "menuServiceItemRenderer": {
+                                      "text": {
+                                        "runs": [
+                                          {
+                                            "text": "채널 ID 복사"
+                                          }
+                                        ]
+                                      },
+                                      "trackingParams": "CAIQ07YLGAIiEwjXn9CRrJKUAxUgTQ8CHVxNB4Q=",
+                                      "command": {
+                                        "clickTrackingParams": "CAIQ07YLGAIiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                        "copyTextEndpoint": {
+                                          "text": "UCg7rkxrTnIhiHEpXY1ec9NA",
+                                          "successActions": [
+                                            {
+                                              "clickTrackingParams": "CAIQ07YLGAIiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                              "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                  "sendPost": true
+                                                }
+                                              },
+                                              "signalServiceEndpoint": {
+                                                "signal": "CLIENT_SIGNAL",
+                                                "actions": [
+                                                  {
+                                                    "clickTrackingParams": "CAIQ07YLGAIiEwjXn9CRrJKUAxUgTQ8CHVxNB4TKAQRLB76n",
+                                                    "openPopupAction": {
+                                                      "popup": {
+                                                        "notificationActionRenderer": {
+                                                          "responseText": {
+                                                            "runs": [
+                                                              {
+                                                                "text": "채널 ID가 클립보드에 복사되었습니다."
+                                                              }
+                                                            ]
+                                                          },
+                                                          "trackingParams": "CAMQuWoiEwjXn9CRrJKUAxUgTQ8CHVxNB4Q="
+                                                        }
+                                                      },
+                                                      "popupType": "TOAST"
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "popupType": "RESPONSIVE_DROPDOWN"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "targetId": "6a53804d-0000-2262-9eff-582429c649a4"
+      }
+    }
+  ]
+}

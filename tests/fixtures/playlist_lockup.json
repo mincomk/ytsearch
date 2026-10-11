@@ -1,0 +1,404 @@
+{
+  "lockupViewModel": {
+    "contentImage": {
+      "collectionThumbnailViewModel": {
+        "primaryThumbnail": {
+          "thumbnailViewModel": {
+            "image": {
+              "sources": [
+                {
+                  "url": "https://i.ytimg.com/vi/J8Q-gx6-q1Q/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0ZXHpor0VdCIAnKWlmX3fiXshnw",
+                  "width": 480,
+                  "height": 270
+                }
+              ]
+            },
+            "overlays": [
+              {
+                "thumbnailOverlayBadgeViewModel": {
+                  "thumbnailBadges": [
+                    {
+                      "thumbnailBadgeViewModel": {
+                        "icon": {
+                          "sources": [
+                            {
+                              "clientResource": {
+                                "imageName": "PLAYLISTS"
+                              }
+                            }
+                          ]
+                        },
+                        "text": "동영상 15개",
+                        "badgeStyle": "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT",
+                        "backgroundColor": {
+                          "lightTheme": 1648166,
+                          "darkTheme": 1648166
+                        }
+                      }
+                    }
+                  ],
+                  "position": "THUMBNAIL_OVERLAY_BADGE_POSITION_BOTTOM_END"
+                }
+              },
+              {
+                "thumbnailHoverOverlayViewModel": {
+                  "icon": {
+                    "sources": [
+                      {
+                        "clientResource": {
+                          "imageName": "PLAY_ALL"
+                        }
+                      }
+                    ]
+                  },
+                  "text": {
+                    "content": "모두 재생",
+                    "styleRuns": [
+                      {
+                        "startIndex": 0,
+                        "length": 5
+                      }
+                    ]
+                  },
+                  "style": "THUMBNAIL_HOVER_OVERLAY_STYLE_COVER"
+                }
+              }
+            ],
+            "backgroundColor": {
+              "lightTheme": 2768703,
+              "darkTheme": 2768703
+            }
+          }
+        },
+        "stackColor": {
+          "lightTheme": 7051673,
+          "darkTheme": 7376012
+        }
+      }
+    },
+    "metadata": {
+      "lockupMetadataViewModel": {
+        "title": {
+          "content": "[LOL 롤] 리그 오브 레전드"
+        },
+        "metadata": {
+          "contentMetadataViewModel": {
+            "metadataRows": [
+              {
+                "metadataParts": [
+                  {
+                    "text": {
+                      "content": "메가게임 - Mega Game",
+                      "commandRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 16,
+                          "onTap": {
+                            "innertubeCommand": {
+                              "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/@-megagame1956",
+                                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                  "rootVe": 3611,
+                                  "apiUrl": "/youtubei/v1/browse"
+                                }
+                              },
+                              "browseEndpoint": {
+                                "browseId": "UCBvApW8Oem0ZaYEH9wIja5Q",
+                                "canonicalBaseUrl": "/@-megagame1956"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "styleRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 16,
+                          "weightLabel": "FONT_WEIGHT_NORMAL"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": {
+                      "content": "재생목록",
+                      "commandRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 4,
+                          "onTap": {
+                            "innertubeCommand": {
+                              "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/@-megagame1956",
+                                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                  "rootVe": 3611,
+                                  "apiUrl": "/youtubei/v1/browse"
+                                }
+                              },
+                              "browseEndpoint": {
+                                "browseId": "UCBvApW8Oem0ZaYEH9wIja5Q",
+                                "canonicalBaseUrl": "/@-megagame1956"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "styleRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 4,
+                          "weightLabel": "FONT_WEIGHT_NORMAL"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "isSpacerRow": true
+              },
+              {
+                "metadataParts": [
+                  {
+                    "text": {
+                      "content": "[리그오브 레전드 LOL 롤] 정글 올라프 가짜사나이?가 아닌 진짜사나이!! 올라프 펜타킬 레전드 영상 \" 올라프를 건드리면 일어나는 일\" 너네 다 뒈졌으!! · 3:09",
+                      "commandRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 208,
+                          "onTap": {
+                            "innertubeCommand": {
+                              "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/watch?v=J8Q-gx6-q1Q&list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                  "rootVe": 3832
+                                }
+                              },
+                              "watchEndpoint": {
+                                "videoId": "J8Q-gx6-q1Q",
+                                "playlistId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                                "loggingContext": {
+                                  "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTF9ERDgxNGkwLWFJcUNaZTZTNzhXdmJGdkRCM0U1eTR6"
+                                  }
+                                },
+                                "watchEndpointSupportedOnesieConfig": {
+                                  "html5PlaybackOnesieConfig": {
+                                    "commonConfig": {
+                                      "url": "https://rr6---sn-3u-20ne7.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&ofpcc=1&msp=1&odepv=1&id=27c43e831ebeab54&ip=192.0.2.1&initcwndbps=3612500&mt=1788767570&oweuc="
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "metadataParts": [
+                  {
+                    "text": {
+                      "content": "[롤 LOL] 미스포츈 궁 잘 사용하는 방법 이 영상을 보시면 됩니다! 대박나고 대역전 감동실화! 미포 궁각 재는 방법 꿀팁 대공개!! 미포 궁 공략법 !~~~ · 1:12",
+                      "commandRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 203,
+                          "onTap": {
+                            "innertubeCommand": {
+                              "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/watch?v=MgGR3blsNuU&list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                  "rootVe": 3832
+                                }
+                              },
+                              "watchEndpoint": {
+                                "videoId": "MgGR3blsNuU",
+                                "playlistId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                                "loggingContext": {
+                                  "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTF9ERDgxNGkwLWFJcUNaZTZTNzhXdmJGdkRCM0U1eTR6"
+                                  }
+                                },
+                                "watchEndpointSupportedOnesieConfig": {
+                                  "html5PlaybackOnesieConfig": {
+                                    "commonConfig": {
+                                      "url": "https://rr6---sn-3u-20nee.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&ofpcc=1&msp=1&odepv=1&id=320191ddb96c36e5&ip=192.0.2.1&initcwndbps=3688750&mt=1788767570&oweuc="
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "isSpacerRow": true
+              },
+              {
+                "metadataParts": [
+                  {
+                    "text": {
+                      "content": "전체 재생목록 보기",
+                      "commandRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 10,
+                          "onTap": {
+                            "innertubeCommand": {
+                              "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/playlist?list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                                  "webPageType": "WEB_PAGE_TYPE_PLAYLIST",
+                                  "rootVe": 5754,
+                                  "apiUrl": "/youtubei/v1/browse"
+                                }
+                              },
+                              "browseEndpoint": {
+                                "browseId": "VLPL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "styleRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 10,
+                          "weightLabel": "FONT_WEIGHT_MEDIUM"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "delimiter": " • "
+          }
+        }
+      }
+    },
+    "contentId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+    "contentType": "LOCKUP_CONTENT_TYPE_PLAYLIST",
+    "itemPlayback": {
+      "inlinePlayerData": {
+        "onSelect": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/watch?v=J8Q-gx6-q1Q&list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z&pp=0gcJCf8COCosWNin",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+              }
+            },
+            "watchEndpoint": {
+              "videoId": "J8Q-gx6-q1Q",
+              "playlistId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+              "params": "OAI%3D",
+              "playerParams": "0gcJCf8COCosWNin",
+              "loggingContext": {
+                "vssLoggingContext": {
+                  "serializedContextData": "GiJQTF9ERDgxNGkwLWFJcUNaZTZTNzhXdmJGdkRCM0U1eTR6"
+                }
+              },
+              "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                  "commonConfig": {
+                    "url": "https://rr6---sn-3u-20ne7.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&ofpcc=1&msp=1&odepv=1&id=27c43e831ebeab54&ip=192.0.2.1&initcwndbps=3612500&mt=1788767570&oweuc="
+                  }
+                }
+              }
+            }
+          }
+        },
+        "onVisible": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/watch?v=J8Q-gx6-q1Q&list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z&pp=YAHIAQHwBAD4BACiBhUBTrmdFEsCbKKrsJmhuCmy5PYOznfSBwkJKwE4KixY2Kc%3D",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+              }
+            },
+            "watchEndpoint": {
+              "videoId": "J8Q-gx6-q1Q",
+              "playlistId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+              "playerParams": "YAHIAQHwBAD4BACiBhUBTrmdFEsCbKKrsJmhuCmy5PYOznfSBwkJKwE4KixY2Kc%3D",
+              "loggingContext": {
+                "vssLoggingContext": {
+                  "serializedContextData": "GiJQTF9ERDgxNGkwLWFJcUNaZTZTNzhXdmJGdkRCM0U1eTR6"
+                }
+              },
+              "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                  "commonConfig": {
+                    "url": "https://rr6---sn-3u-20ne7.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&ofpcc=1&msp=1&odepv=1&id=27c43e831ebeab54&ip=192.0.2.1&initcwndbps=3612500&mt=1788767570&oweuc="
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rendererContext": {
+      "loggingContext": {
+        "loggingDirectives": {
+          "trackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZw=",
+          "visibility": {
+            "types": "12"
+          }
+        }
+      },
+      "commandContext": {
+        "onTap": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CFMQ0sQMGAAiEwid66jf_9uWAxXtm7kFHbdHJZwyBnNlYXJjaMoBBL7ZOrk=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/watch?v=J8Q-gx6-q1Q&list=PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+              }
+            },
+            "watchEndpoint": {
+              "videoId": "J8Q-gx6-q1Q",
+              "playlistId": "PL_DD814i0-aIqCZe6S78WvbFvDB3E5y4z",
+              "params": "OAI%3D",
+              "loggingContext": {
+                "vssLoggingContext": {
+                  "serializedContextData": "GiJQTF9ERDgxNGkwLWFJcUNaZTZTNzhXdmJGdkRCM0U1eTR6"
+                }
+              },
+              "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                  "commonConfig": {
+                    "url": "https://rr6---sn-3u-20ne7.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&ofpcc=1&msp=1&odepv=1&id=27c43e831ebeab54&ip=192.0.2.1&initcwndbps=3612500&mt=1788767570&oweuc="
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

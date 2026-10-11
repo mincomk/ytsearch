@@ -1,0 +1,27 @@
+ytsearch — provenance
+=====================
+
+This crate is a clean, idiomatic rewrite of the same YouTube surface that
+"yspy" (https://github.com/ityeri/yspy) scrapes, and of this repository's own
+earlier line-by-line port of it ("ysrs", https://github.com/mincomk/ysrs).
+
+yspy, Copyright (c) 2025 ityeri, is a refactored fork of the original project
+"youtube-search-python" (https://github.com/alexmercerind/youtube-search-python),
+Original Copyright (c) 2021 Hitesh Kumar Saini. Both are licensed under the MIT
+License.
+
+What is carried over from them:
+
+- the innertube endpoints, client definitions and request payloads, which are
+  what any client of this kind has to send;
+- the JSON shapes the pages are parsed from, and the parsing rules (including
+  the English-page pairing used to read abbreviated counts such as
+  "573K subscribers");
+- the json fixtures under tests/fixtures/, which come from yspy's test suite
+  and are used here as the parsing gate.
+
+What is new here: the public API design (a client handle, typed ids, cursor
+paging, builder options), the JSON-free request/step core, and the
+feature-split sync/async surfaces.
+
+See LICENSE for the full license text that covers all of the above.

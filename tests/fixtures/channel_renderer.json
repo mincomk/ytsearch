@@ -1,0 +1,144 @@
+{
+  "channelRenderer": {
+    "channelId": "UCZRcA_nO3Kt-SOml2mY8D9g",
+    "title": {
+      "simpleText": "test"
+    },
+    "navigationEndpoint": {
+      "clickTrackingParams": "CLYEENowGAAiEwih35OHy4-UAxVhc_UFHViUEhjKAQQKnBKF",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/@tutorialismic",
+          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+          "rootVe": 3611,
+          "apiUrl": "/youtubei/v1/browse"
+        }
+      },
+      "browseEndpoint": {
+        "browseId": "UCZRcA_nO3Kt-SOml2mY8D9g",
+        "canonicalBaseUrl": "/@tutorialismic"
+      }
+    },
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "//yt3.ggpht.com/fl5TdgnN-uKN16BRuzAFH_DwYxO9l6CFumiP5RNQiGBiEOZu5oSr5VEnM77EATS5ZkP_4TikKw=s88-c-k-c0x00ffffff-no-rj-mo",
+          "width": 88,
+          "height": 88
+        },
+        {
+          "url": "//yt3.ggpht.com/fl5TdgnN-uKN16BRuzAFH_DwYxO9l6CFumiP5RNQiGBiEOZu5oSr5VEnM77EATS5ZkP_4TikKw=s176-c-k-c0x00ffffff-no-rj-mo",
+          "width": 176,
+          "height": 176
+        }
+      ]
+    },
+    "descriptionSnippet": {
+      "runs": [
+        {
+          "text": "Get your own difficulty faces! Get paid to create!: https://discord.gg/zWRmNYWS3v 2nd channel: \"tespañol\""
+        }
+      ]
+    },
+    "shortBylineText": {
+      "runs": [
+        {
+          "text": "test",
+          "navigationEndpoint": {
+            "clickTrackingParams": "CLYEENowGAAiEwih35OHy4-UAxVhc_UFHViUEhjKAQQKnBKF",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/@tutorialismic",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCZRcA_nO3Kt-SOml2mY8D9g",
+              "canonicalBaseUrl": "/@tutorialismic"
+            }
+          }
+        }
+      ]
+    },
+    "videoCountText": {
+      "accessibility": {
+        "accessibilityData": {
+          "label": "264 thousand subscribers"
+        }
+      },
+      "simpleText": "264K subscribers"
+    },
+    "subscriptionButton": {
+      "subscribed": false
+    },
+    "subscriberCountText": {
+      "simpleText": "@tutorialismic"
+    },
+    "subscribeButton": {
+      "buttonRenderer": {
+        "style": "STYLE_DESTRUCTIVE",
+        "size": "SIZE_DEFAULT",
+        "isDisabled": false,
+        "text": {
+          "runs": [
+            {
+              "text": "Subscribe"
+            }
+          ]
+        },
+        "navigationEndpoint": {
+          "clickTrackingParams": "CLcEEPBbIhMIod-Th8uPlAMVYXP1BR1YlBIYygEECpwShQ==",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253Dtest%26continue_action%3DQUFFLUhqbGJaTlY0SDBOcEhjSm85WUJWOWRTNEpJZkJIQXxBQ3Jtc0tsckJrTXByMm1HOUlfNm95VmRJS2hOZktRWkt6Zk9jR3dZeUQ1MVFDNVhLSFdsdGY3Ti1ZaDZHMnZNMHRNUUpvS21SQTAxSm94M3ZxbVZiVEhoeTM0SzBDemE3ZjRjRkdKT0Z4N2tubThBYkx2NDFwaWI1Y2EwTkhTWHUtNm1MSHFiZDlGWk5ySDREcDlmU1cwakNhU1FrM2JPUF9XTTdUbnRKSENrb1d0VXBTQngzTmNYSHZDNFlTbGdGZFY2UUtpcm5lZ3Y&hl=en",
+              "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+              "rootVe": 83769
+            }
+          },
+          "signInEndpoint": {
+            "nextEndpoint": {
+              "clickTrackingParams": "CLcEEPBbIhMIod-Th8uPlAMVYXP1BR1YlBIYygEECpwShQ==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/results?search_query=test",
+                  "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                  "rootVe": 4724
+                }
+              },
+              "searchEndpoint": {
+                "query": "test"
+              }
+            },
+            "continueAction": "QUFFLUhqbGJaTlY0SDBOcEhjSm85WUJWOWRTNEpJZkJIQXxBQ3Jtc0tsckJrTXByMm1HOUlfNm95VmRJS2hOZktRWkt6Zk9jR3dZeUQ1MVFDNVhLSFdsdGY3Ti1ZaDZHMnZNMHRNUUpvS21SQTAxSm94M3ZxbVZiVEhoeTM0SzBDemE3ZjRjRkdKT0Z4N2tubThBYkx2NDFwaWI1Y2EwTkhTWHUtNm1MSHFiZDlGWk5ySDREcDlmU1cwakNhU1FrM2JPUF9XTTdUbnRKSENrb1d0VXBTQngzTmNYSHZDNFlTbGdGZFY2UUtpcm5lZ3Y"
+          }
+        },
+        "trackingParams": "CLcEEPBbIhMIod-Th8uPlAMVYXP1BR1YlBIY"
+      }
+    },
+    "trackingParams": "CLYEENowGAAiEwih35OHy4-UAxVhc_UFHViUEhg=",
+    "longBylineText": {
+      "runs": [
+        {
+          "text": "test",
+          "navigationEndpoint": {
+            "clickTrackingParams": "CLYEENowGAAiEwih35OHy4-UAxVhc_UFHViUEhjKAQQKnBKF",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/@tutorialismic",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCZRcA_nO3Kt-SOml2mY8D9g",
+              "canonicalBaseUrl": "/@tutorialismic"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

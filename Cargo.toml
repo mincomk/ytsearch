@@ -1,0 +1,42 @@
+[package]
+name = "ytsearch"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.80"
+description = "Search YouTube and read videos, channels, playlists and comments without the Data API — an idiomatic sync-or-async Rust client"
+homepage = "https://github.com/mincomk/ytsearch"
+repository = "https://github.com/mincomk/ytsearch"
+license = "MIT"
+readme = "README.md"
+keywords = ["youtube", "scraper", "innertube", "search", "api"]
+categories = ["api-bindings", "web-programming::http-client"]
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["std"] }
+regex = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+serde_json = "1"
+thiserror = "2"
+url = "2"
+
+[dev-dependencies]
+tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
+
+[features]
+default = ["blocking"]
+# The blocking surface (`ytsearch::Client`). Built on reqwest's blocking client,
+# which must not be used from inside an async runtime.
+blocking = ["reqwest/blocking"]
+# The async surface (`ytsearch::AsyncClient`).
+async = []
+
+[[example]]
+name = "search"
+required-features = ["blocking"]
+
+[[example]]
+name = "asearch"
+required-features = ["async"]
+
+[package.metadata.docs.rs]
+all-features = true

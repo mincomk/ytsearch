@@ -1,0 +1,1132 @@
+{
+  "header": {
+    "pageHeaderRenderer": {
+      "pageTitle": "각별",
+      "content": {
+        "pageHeaderViewModel": {
+          "title": {
+            "dynamicTextViewModel": {
+              "text": {
+                "content": "각별"
+              },
+              "maxLines": 2,
+              "rendererContext": {
+                "loggingContext": {
+                  "loggingDirectives": {
+                    "trackingParams": "CCAQj-QKIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "clientVeSpec": {
+                      "uiType": 176655,
+                      "veCounter": 932810017
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "image": {
+            "decoratedAvatarViewModel": {
+              "avatar": {
+                "avatarViewModel": {
+                  "image": {
+                    "sources": [
+                      {
+                        "url": "https://yt3.googleusercontent.com/ytc/AIdro_muulujt4Y3frAPscnywCOD3u54zeaB1bXXLSasPVr81e8=s72-c-k-c0x00ffffff-no-rj",
+                        "width": 72,
+                        "height": 72
+                      },
+                      {
+                        "url": "https://yt3.googleusercontent.com/ytc/AIdro_muulujt4Y3frAPscnywCOD3u54zeaB1bXXLSasPVr81e8=s120-c-k-c0x00ffffff-no-rj",
+                        "width": 120,
+                        "height": 120
+                      },
+                      {
+                        "url": "https://yt3.googleusercontent.com/ytc/AIdro_muulujt4Y3frAPscnywCOD3u54zeaB1bXXLSasPVr81e8=s160-c-k-c0x00ffffff-no-rj",
+                        "width": 160,
+                        "height": 160
+                      }
+                    ],
+                    "processor": {
+                      "borderImageProcessor": {
+                        "circular": true
+                      }
+                    }
+                  },
+                  "avatarImageSize": "AVATAR_SIZE_XL",
+                  "loggingDirectives": {
+                    "trackingParams": "CB8Q6OENIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "contentMetadataViewModel": {
+              "metadataRows": [
+                {
+                  "metadataParts": [
+                    {
+                      "text": {
+                        "content": "@각별",
+                        "styleRuns": [
+                          {
+                            "weightLabel": "FONT_WEIGHT_MEDIUM",
+                            "styleRunExtensions": {
+                              "styleRunColorMapExtension": {
+                                "colorMap": [
+                                  {
+                                    "key": "USER_INTERFACE_THEME_LIGHT",
+                                    "value": 4279440147
+                                  },
+                                  {
+                                    "key": "USER_INTERFACE_THEME_DARK",
+                                    "value": 4294967295
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "enableTruncation": true
+                    }
+                  ]
+                },
+                {
+                  "metadataParts": [
+                    {
+                      "text": {
+                        "content": "573K subscribers"
+                      },
+                      "accessibilityLabel": "573 thousand subscribers"
+                    },
+                    {
+                      "text": {
+                        "content": "422 videos",
+                        "styleRuns": [
+                          {
+                            "startIndex": 0,
+                            "length": 10
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
+              "delimiter": "•",
+              "rendererContext": {
+                "loggingContext": {
+                  "loggingDirectives": {
+                    "trackingParams": "CB4Q9eQKIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "clientVeSpec": {
+                      "uiType": 176757,
+                      "veCounter": 932810016
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "actions": {
+            "flexibleActionsViewModel": {
+              "actionsRows": [
+                {
+                  "actions": [
+                    {
+                      "buttonViewModel": {
+                        "title": "Subscribe",
+                        "onTap": {
+                          "innertubeCommand": {
+                            "clickTrackingParams": "CBIQot8KIhMIjoXchbaQlAMV_WEPAh2aKjjdygEEBHNBcw==",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "ignoreNavigation": true
+                              }
+                            },
+                            "modalEndpoint": {
+                              "modal": {
+                                "modalWithTitleAndButtonRenderer": {
+                                  "title": {
+                                    "simpleText": "Want to subscribe to this channel?"
+                                  },
+                                  "content": {
+                                    "simpleText": "Sign in to subscribe to this channel."
+                                  },
+                                  "button": {
+                                    "buttonRenderer": {
+                                      "style": "STYLE_MONO_FILLED",
+                                      "size": "SIZE_DEFAULT",
+                                      "isDisabled": false,
+                                      "text": {
+                                        "simpleText": "Sign in"
+                                      },
+                                      "navigationEndpoint": {
+                                        "clickTrackingParams": "CB0Q_YYEIhMIjoXchbaQlAMV_WEPAh2aKjjdMglzdWJzY3JpYmXKAQQEc0Fz",
+                                        "commandMetadata": {
+                                          "webCommandMetadata": {
+                                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540%2525EA%2525B0%252581%2525EB%2525B3%252584%252Fplaylists%26continue_action%3DQUFFLUhqazM3SEpPeUZsTVF6WElBdEVGbVowRDFHZ2x2Z3xBQ3Jtc0trb1ctdXR0Y3VxWnZia1otSEZQZ3lDZGRfT0JBM2hXNmpnOWlqSnQ3MWJVb19QbXFrd2txMGg4QTU2TE5BNHVCdHRBV1dENXU0T0cxQjdRU1hKQWl2ZWU1N0VRczR1ejNfMWFlTVFEMTNSZTNLRkx2dXJ6UnNYQ1I2TEdROWxjSk5aRkhoQ210dWNlX0dmVUV4XzJDaW0yX0RPc2JvcmhZZlpMRUtxbjJyLWt5MGFOV0U5RkFfS1pES0cteGlFSDRuVThER0E&hl=en&ec=66429",
+                                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                            "rootVe": 83769
+                                          }
+                                        },
+                                        "signInEndpoint": {
+                                          "nextEndpoint": {
+                                            "clickTrackingParams": "CB0Q_YYEIhMIjoXchbaQlAMV_WEPAh2aKjjdygEEBHNBcw==",
+                                            "commandMetadata": {
+                                              "webCommandMetadata": {
+                                                "url": "/@%EA%B0%81%EB%B3%84/playlists",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                              }
+                                            },
+                                            "browseEndpoint": {
+                                              "browseId": "UCDrAR1OWC2MD4s0JLetN0MA",
+                                              "params": "EglwbGF5bGlzdHM%3D",
+                                              "canonicalBaseUrl": "/@%EA%B0%81%EB%B3%84"
+                                            }
+                                          },
+                                          "continueAction": "QUFFLUhqazM3SEpPeUZsTVF6WElBdEVGbVowRDFHZ2x2Z3xBQ3Jtc0trb1ctdXR0Y3VxWnZia1otSEZQZ3lDZGRfT0JBM2hXNmpnOWlqSnQ3MWJVb19QbXFrd2txMGg4QTU2TE5BNHVCdHRBV1dENXU0T0cxQjdRU1hKQWl2ZWU1N0VRczR1ejNfMWFlTVFEMTNSZTNLRkx2dXJ6UnNYQ1I2TEdROWxjSk5aRkhoQ210dWNlX0dmVUV4XzJDaW0yX0RPc2JvcmhZZlpMRUtxbjJyLWt5MGFOV0U5RkFfS1pES0cteGlFSDRuVThER0E",
+                                          "idamTag": "66429"
+                                        }
+                                      },
+                                      "trackingParams": "CB0Q_YYEIhMIjoXchbaQlAMV_WEPAh2aKjjd"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "accessibilityText": "Subscribe",
+                        "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+                        "trackingParams": "CBIQot8KIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                        "isFullWidth": false,
+                        "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+                        "buttonSize": "BUTTON_VIEW_MODEL_SIZE_DEFAULT",
+                        "state": "BUTTON_VIEW_MODEL_STATE_ACTIVE"
+                      }
+                    },
+                    {
+                      "buttonViewModel": {
+                        "iconName": "SPONSORSHIP_STAR",
+                        "title": "Join",
+                        "onTap": {
+                          "innertubeCommand": {
+                            "clickTrackingParams": "CBsQocYHGAIiEwiOhdyFtpCUAxX9YQ8CHZoqON3KAQQEc0Fz",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "ignoreNavigation": true
+                              }
+                            },
+                            "modalEndpoint": {
+                              "modal": {
+                                "modalWithTitleAndButtonRenderer": {
+                                  "title": {
+                                    "runs": [
+                                      {
+                                        "text": "Want to join this channel?"
+                                      }
+                                    ]
+                                  },
+                                  "content": {
+                                    "runs": [
+                                      {
+                                        "text": "Sign in to become a member."
+                                      }
+                                    ]
+                                  },
+                                  "button": {
+                                    "buttonRenderer": {
+                                      "style": "STYLE_BRAND",
+                                      "size": "SIZE_DEFAULT",
+                                      "isDisabled": false,
+                                      "text": {
+                                        "simpleText": "Sign in"
+                                      },
+                                      "navigationEndpoint": {
+                                        "clickTrackingParams": "CBwQ8FsiEwiOhdyFtpCUAxX9YQ8CHZoqON3KAQQEc0Fz",
+                                        "commandMetadata": {
+                                          "webCommandMetadata": {
+                                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fyoutubei%252Fv1%252Fbrowse%253Fkey%253DAIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8%2526prettyPrint%253Dtrue&hl=en",
+                                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                            "rootVe": 83769
+                                          }
+                                        },
+                                        "signInEndpoint": {
+                                          "hack": true
+                                        }
+                                      },
+                                      "trackingParams": "CBwQ8FsiEwiOhdyFtpCUAxX9YQ8CHZoqON0="
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "accessibilityText": "Join this channel",
+                        "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+                        "trackingParams": "CBsQocYHGAIiEwiOhdyFtpCUAxX9YQ8CHZoqON0=",
+                        "isFullWidth": false,
+                        "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+                        "buttonSize": "BUTTON_VIEW_MODEL_SIZE_DEFAULT",
+                        "state": "BUTTON_VIEW_MODEL_STATE_ACTIVE",
+                        "accessibilityId": "id.sponsor_button",
+                        "onVisible": {
+                          "innertubeCommand": {
+                            "clickTrackingParams": "CBsQocYHGAIiEwiOhdyFtpCUAxX9YQ8CHZoqON3KAQQEc0Fz",
+                            "logFlowLoggingEventCommand": {
+                              "flowEventType": 1,
+                              "flowEventNamespace": "FLOW_EVENT_NAMESPACE_SPONSORSHIPS_PURCHASE",
+                              "flowType": "FLOW_TYPE_SPONSORSHIPS_PURCHASE",
+                              "flowEventMetadata": {
+                                "sponsorshipsPurchaseContext": {
+                                  "joinMethod": "SPONSORSHIPS_JOIN_METHOD_CHANNEL_PAGE_BUTTON"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "targetId": "sponsorships-button",
+                        "loggingDirectives": {
+                          "trackingParams": "CBsQocYHGAIiEwiOhdyFtpCUAxX9YQ8CHZoqON0=",
+                          "visibility": {
+                            "types": "12"
+                          },
+                          "clientVeSpec": {
+                            "uiType": 123681,
+                            "veCounter": 932810015
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "justifyContent": "FLEXIBLE_ACTIONS_JUSTIFY_CONTENT_START",
+              "minimumRowHeight": 44,
+              "rendererContext": {
+                "loggingContext": {
+                  "loggingDirectives": {
+                    "trackingParams": "CBIQot8KIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "clientVeSpec": {
+                      "uiType": 184974,
+                      "veCounter": 932810014
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "description": {
+            "descriptionPreviewViewModel": {
+              "description": {
+                "content": "마인크래프트 합니다. "
+              },
+              "maxLines": 2,
+              "truncationText": {
+                "content": "...more",
+                "styleRuns": [
+                  {
+                    "startIndex": 0,
+                    "length": 7,
+                    "weight": 500
+                  }
+                ]
+              },
+              "alwaysShowTruncationText": true,
+              "rendererContext": {
+                "loggingContext": {
+                  "loggingDirectives": {
+                    "trackingParams": "CBYQr_4KIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "clientVeSpec": {
+                      "uiType": 180015,
+                      "veCounter": 932810013
+                    }
+                  }
+                },
+                "accessibilityContext": {
+                  "label": "Description. 마인크래프트 합니다....tap for more."
+                },
+                "commandContext": {
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CBYQr_4KIhMIjoXchbaQlAMV_WEPAh2aKjjdygEEBHNBcw==",
+                      "showEngagementPanelEndpoint": {
+                        "engagementPanel": {
+                          "engagementPanelSectionListRenderer": {
+                            "header": {
+                              "engagementPanelTitleHeaderRenderer": {
+                                "title": {
+                                  "simpleText": "각별"
+                                },
+                                "visibilityButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_DEFAULT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "icon": {
+                                      "iconType": "CLOSE"
+                                    },
+                                    "accessibility": {
+                                      "label": "Close"
+                                    },
+                                    "trackingParams": "CBoQ8FsiEwiOhdyFtpCUAxX9YQ8CHZoqON0=",
+                                    "accessibilityData": {
+                                      "accessibilityData": {
+                                        "label": "Close"
+                                      }
+                                    },
+                                    "command": {
+                                      "clickTrackingParams": "CBoQ8FsiEwiOhdyFtpCUAxX9YQ8CHZoqON3KAQQEc0Fz",
+                                      "changeEngagementPanelVisibilityAction": {
+                                        "targetId": "6e2b7cbe-0000-2a9a-8842-14223bae0d7a",
+                                        "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN"
+                                      }
+                                    }
+                                  }
+                                },
+                                "trackingParams": "CBcQ040EIhMIjoXchbaQlAMV_WEPAh2aKjjd"
+                              }
+                            },
+                            "content": {
+                              "sectionListRenderer": {
+                                "contents": [
+                                  {
+                                    "itemSectionRenderer": {
+                                      "contents": [
+                                        {
+                                          "continuationItemRenderer": {
+                                            "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+                                            "continuationEndpoint": {
+                                              "clickTrackingParams": "CBkQuy8YACITCI6F3IW2kJQDFf1hDwIdmio43coBBARzQXM=",
+                                              "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                  "sendPost": true,
+                                                  "apiUrl": "/youtubei/v1/browse"
+                                                }
+                                              },
+                                              "continuationCommand": {
+                                                "token": "4qmFsgJgEhhVQ0RyQVIxT1dDMk1ENHMwSkxldE4wTUEaRDhnWXJHaW1hQVNZS0pEWmxNbUkzWTJKbUxUQXdNREF0TW1FNVlTMDRPRFF5TFRFME1qSXpZbUZsTUdRM1lRJTNEJTNE",
+                                                "request": "CONTINUATION_REQUEST_TYPE_BROWSE"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      ],
+                                      "trackingParams": "CBkQuy8YACITCI6F3IW2kJQDFf1hDwIdmio43Q==",
+                                      "sectionIdentifier": "6e2b7cbf-0000-2a9a-8842-14223bae0d7a",
+                                      "targetId": "6e2b7cbf-0000-2a9a-8842-14223bae0d7a"
+                                    }
+                                  }
+                                ],
+                                "trackingParams": "CBgQui8iEwiOhdyFtpCUAxX9YQ8CHZoqON0=",
+                                "scrollPaneStyle": {
+                                  "scrollable": true
+                                }
+                              }
+                            },
+                            "targetId": "6e2b7cbe-0000-2a9a-8842-14223bae0d7a",
+                            "identifier": {
+                              "surface": "ENGAGEMENT_PANEL_SURFACE_BROWSE",
+                              "tag": "6e2b7cbe-0000-2a9a-8842-14223bae0d7a"
+                            }
+                          }
+                        },
+                        "identifier": {
+                          "surface": "ENGAGEMENT_PANEL_SURFACE_BROWSE",
+                          "tag": "6e2b7cbe-0000-2a9a-8842-14223bae0d7a"
+                        },
+                        "engagementPanelPresentationConfigs": {
+                          "engagementPanelPopupPresentationConfig": {
+                            "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attribution": {
+            "attributionViewModel": {
+              "text": {
+                "content": "discord.gg/k5S5BT2Y84",
+                "commandRuns": [
+                  {
+                    "startIndex": 0,
+                    "length": 21,
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CBUQmokLGAAiEwiOhdyFtpCUAxX9YQ8CHZoqON3KAQQEc0Fz",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbk9DN2phVldBUFd6M3JPMnd0VDlDS21Wai1qQXxBQ3Jtc0ttSWJ0Z2g0Z1VRNjZqTzJfX1RqQmlBWnJObDhUMUF2TDR6dkpkbnUyUmdwd1FKMUR4cjNRZ25FZ0FFODhPNUlZR2d2MjhadnRhOXFCc1NkWmZBRDFqRWlycm1NMnVZYWdLVEx6ZnNGZHE1dGoyQnEzUQ&q=https%3A%2F%2Fdiscord.gg%2Fk5S5BT2Y84",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "urlEndpoint": {
+                          "url": "https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbk9DN2phVldBUFd6M3JPMnd0VDlDS21Wai1qQXxBQ3Jtc0ttSWJ0Z2g0Z1VRNjZqTzJfX1RqQmlBWnJObDhUMUF2TDR6dkpkbnUyUmdwd1FKMUR4cjNRZ25FZ0FFODhPNUlZR2d2MjhadnRhOXFCc1NkWmZBRDFqRWlycm1NMnVZYWdLVEx6ZnNGZHE1dGoyQnEzUQ&q=https%3A%2F%2Fdiscord.gg%2Fk5S5BT2Y84",
+                          "target": "TARGET_NEW_WINDOW"
+                        }
+                      }
+                    },
+                    "loggingDirectives": {
+                      "trackingParams": "CBUQmokLGAAiEwiOhdyFtpCUAxX9YQ8CHZoqON0=",
+                      "visibility": {
+                        "types": "12"
+                      }
+                    }
+                  }
+                ],
+                "styleRuns": [
+                  {
+                    "weightLabel": "FONT_WEIGHT_NORMAL",
+                    "styleRunExtensions": {
+                      "styleRunColorMapExtension": {
+                        "colorMap": [
+                          {
+                            "key": "USER_INTERFACE_THEME_LIGHT",
+                            "value": 4278607828
+                          },
+                          {
+                            "key": "USER_INTERFACE_THEME_DARK",
+                            "value": 4282296063
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "rendererContext": {
+                "loggingContext": {
+                  "loggingDirectives": {
+                    "trackingParams": "CBQQjaULIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "clientVeSpec": {
+                      "uiType": 184973,
+                      "veCounter": 932810012
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "rendererContext": {
+            "loggingContext": {
+              "loggingDirectives": {
+                "trackingParams": "CBIQot8KIhMIjoXchbaQlAMV_WEPAh2aKjjd",
+                "visibility": {
+                  "types": "12"
+                },
+                "clientVeSpec": {
+                  "uiType": 176034,
+                  "veCounter": 932810010
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "channelMetadataRenderer": {
+      "title": "각별",
+      "description": "마인크래프트 합니다.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrAR1OWC2MD4s0JLetN0MA",
+      "channelConversionUrl": "https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20210224_06_00&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20210224_06_00%3Bptype%3Dcview%3Btype%3Dcview%3Butuid%3DDrAR1OWC2MD4s0JLetN0MA&foc_id=DrAR1OWC2MD4s0JLetN0MA&label=followon_cvisit&ptype=cview&utuid=DrAR1OWC2MD4s0JLetN0MA",
+      "externalId": "UCDrAR1OWC2MD4s0JLetN0MA",
+      "keywords": "각별 마인크래프트",
+      "ownerUrls": [
+        "http://www.youtube.com/@%EA%B0%81%EB%B3%84"
+      ],
+      "avatar": {
+        "thumbnails": [
+          {
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_muulujt4Y3frAPscnywCOD3u54zeaB1bXXLSasPVr81e8=s900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          }
+        ]
+      },
+      "channelUrl": "https://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "isFamilySafe": true,
+      "availableCountryCodes": [
+        "MR",
+        "TH",
+        "MN",
+        "UA",
+        "GP",
+        "LK",
+        "NZ",
+        "AQ",
+        "TW",
+        "AW",
+        "MO",
+        "NO",
+        "VI",
+        "SB",
+        "IT",
+        "LC",
+        "IM",
+        "IR",
+        "AX",
+        "ER",
+        "HU",
+        "IS",
+        "KE",
+        "TL",
+        "PG",
+        "MF",
+        "IL",
+        "IN",
+        "SL",
+        "FK",
+        "UG",
+        "BB",
+        "MU",
+        "MK",
+        "KR",
+        "AI",
+        "KP",
+        "UY",
+        "GA",
+        "TG",
+        "BH",
+        "LI",
+        "PR",
+        "AE",
+        "LY",
+        "QA",
+        "SG",
+        "CI",
+        "ES",
+        "LT",
+        "ID",
+        "SS",
+        "CC",
+        "RW",
+        "OM",
+        "HR",
+        "PK",
+        "PT",
+        "MT",
+        "MZ",
+        "SN",
+        "DM",
+        "VU",
+        "MX",
+        "GI",
+        "CK",
+        "PS",
+        "GQ",
+        "PA",
+        "CX",
+        "HN",
+        "BA",
+        "PL",
+        "SE",
+        "CO",
+        "BM",
+        "FJ",
+        "TO",
+        "DZ",
+        "HM",
+        "VG",
+        "CY",
+        "AO",
+        "MH",
+        "JO",
+        "PE",
+        "BL",
+        "DE",
+        "MQ",
+        "TR",
+        "LS",
+        "BS",
+        "EC",
+        "AF",
+        "NU",
+        "RO",
+        "CZ",
+        "HT",
+        "AZ",
+        "GD",
+        "CA",
+        "CH",
+        "KN",
+        "SD",
+        "MS",
+        "YE",
+        "CV",
+        "MV",
+        "NF",
+        "BN",
+        "TK",
+        "GR",
+        "KG",
+        "FM",
+        "BD",
+        "AL",
+        "EE",
+        "EG",
+        "PY",
+        "SZ",
+        "CU",
+        "BG",
+        "SV",
+        "DO",
+        "GB",
+        "SM",
+        "GN",
+        "HK",
+        "TJ",
+        "KI",
+        "FO",
+        "GG",
+        "AU",
+        "DK",
+        "MC",
+        "TN",
+        "RU",
+        "AD",
+        "BF",
+        "TD",
+        "CG",
+        "MW",
+        "VN",
+        "MP",
+        "ZA",
+        "BZ",
+        "AG",
+        "NG",
+        "SK",
+        "KH",
+        "GU",
+        "NL",
+        "MY",
+        "CR",
+        "BV",
+        "SI",
+        "WS",
+        "PM",
+        "BW",
+        "CF",
+        "ME",
+        "GT",
+        "JE",
+        "GE",
+        "GY",
+        "JM",
+        "PW",
+        "AR",
+        "IE",
+        "RS",
+        "VE",
+        "EH",
+        "CL",
+        "SA",
+        "IQ",
+        "ET",
+        "LR",
+        "GM",
+        "KM",
+        "TV",
+        "ST",
+        "TC",
+        "IO",
+        "MD",
+        "BO",
+        "NE",
+        "WF",
+        "BI",
+        "CD",
+        "GW",
+        "KY",
+        "TT",
+        "RE",
+        "ZW",
+        "SO",
+        "FI",
+        "KZ",
+        "CW",
+        "GF",
+        "PF",
+        "GH",
+        "GS",
+        "PH",
+        "TZ",
+        "TF",
+        "LV",
+        "YT",
+        "DJ",
+        "SR",
+        "KW",
+        "AT",
+        "NP",
+        "BJ",
+        "TM",
+        "VA",
+        "LB",
+        "MM",
+        "AS",
+        "MA",
+        "UM",
+        "LU",
+        "NA",
+        "NC",
+        "BR",
+        "PN",
+        "NI",
+        "LA",
+        "UZ",
+        "GL",
+        "SX",
+        "VC",
+        "FR",
+        "SJ",
+        "SY",
+        "BY",
+        "JP",
+        "US",
+        "SH",
+        "ZM",
+        "MG",
+        "BQ",
+        "CN",
+        "CM",
+        "NR",
+        "SC",
+        "BE",
+        "BT",
+        "AM",
+        "ML"
+      ],
+      "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "vanityChannelUrl": "http://www.youtube.com/@%EA%B0%81%EB%B3%84"
+    }
+  },
+  "microformat": {
+    "microformatDataRenderer": {
+      "urlCanonical": "https://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "title": "각별",
+      "description": "마인크래프트 합니다.",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_muulujt4Y3frAPscnywCOD3u54zeaB1bXXLSasPVr81e8=s200-c-k-c0x00ffffff-no-rj?days_since_epoch=20571",
+            "width": 200,
+            "height": 200
+          }
+        ]
+      },
+      "siteName": "YouTube",
+      "appName": "YouTube",
+      "androidPackage": "com.google.android.youtube",
+      "iosAppStoreId": "544007664",
+      "iosAppArguments": "https://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA",
+      "ogType": "yt-fb-app:channel",
+      "urlApplinksWeb": "https://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA?feature=applinks",
+      "urlApplinksIos": "vnd.youtube://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA?feature=applinks",
+      "urlApplinksAndroid": "vnd.youtube://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA?feature=applinks",
+      "urlTwitterIos": "vnd.youtube://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA?feature=twitter-deep-link",
+      "urlTwitterAndroid": "vnd.youtube://www.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA?feature=twitter-deep-link",
+      "twitterCardType": "summary",
+      "twitterSiteHandle": "@YouTube",
+      "schemaDotOrgType": "http://schema.org/http://schema.org/YoutubeChannelV2",
+      "noindex": false,
+      "unlisted": false,
+      "familySafe": true,
+      "tags": [
+        "각별",
+        "마인크래프트"
+      ],
+      "availableCountries": [
+        "MR",
+        "TH",
+        "MN",
+        "UA",
+        "GP",
+        "LK",
+        "NZ",
+        "AQ",
+        "TW",
+        "AW",
+        "MO",
+        "NO",
+        "VI",
+        "SB",
+        "IT",
+        "LC",
+        "IM",
+        "IR",
+        "AX",
+        "ER",
+        "HU",
+        "IS",
+        "KE",
+        "TL",
+        "PG",
+        "MF",
+        "IL",
+        "IN",
+        "SL",
+        "FK",
+        "UG",
+        "BB",
+        "MU",
+        "MK",
+        "KR",
+        "AI",
+        "KP",
+        "UY",
+        "GA",
+        "TG",
+        "BH",
+        "LI",
+        "PR",
+        "AE",
+        "LY",
+        "QA",
+        "SG",
+        "CI",
+        "ES",
+        "LT",
+        "ID",
+        "SS",
+        "CC",
+        "RW",
+        "OM",
+        "HR",
+        "PK",
+        "PT",
+        "MT",
+        "MZ",
+        "SN",
+        "DM",
+        "VU",
+        "MX",
+        "GI",
+        "CK",
+        "PS",
+        "GQ",
+        "PA",
+        "CX",
+        "HN",
+        "BA",
+        "PL",
+        "SE",
+        "CO",
+        "BM",
+        "FJ",
+        "TO",
+        "DZ",
+        "HM",
+        "VG",
+        "CY",
+        "AO",
+        "MH",
+        "JO",
+        "PE",
+        "BL",
+        "DE",
+        "MQ",
+        "TR",
+        "LS",
+        "BS",
+        "EC",
+        "AF",
+        "NU",
+        "RO",
+        "CZ",
+        "HT",
+        "AZ",
+        "GD",
+        "CA",
+        "CH",
+        "KN",
+        "SD",
+        "MS",
+        "YE",
+        "CV",
+        "MV",
+        "NF",
+        "BN",
+        "TK",
+        "GR",
+        "KG",
+        "FM",
+        "BD",
+        "AL",
+        "EE",
+        "EG",
+        "PY",
+        "SZ",
+        "CU",
+        "BG",
+        "SV",
+        "DO",
+        "GB",
+        "SM",
+        "GN",
+        "HK",
+        "TJ",
+        "KI",
+        "FO",
+        "GG",
+        "AU",
+        "DK",
+        "MC",
+        "TN",
+        "RU",
+        "AD",
+        "BF",
+        "TD",
+        "CG",
+        "MW",
+        "VN",
+        "MP",
+        "ZA",
+        "BZ",
+        "AG",
+        "NG",
+        "SK",
+        "KH",
+        "GU",
+        "NL",
+        "MY",
+        "CR",
+        "BV",
+        "SI",
+        "WS",
+        "PM",
+        "BW",
+        "CF",
+        "ME",
+        "GT",
+        "JE",
+        "GE",
+        "GY",
+        "JM",
+        "PW",
+        "AR",
+        "IE",
+        "RS",
+        "VE",
+        "EH",
+        "CL",
+        "SA",
+        "IQ",
+        "ET",
+        "LR",
+        "GM",
+        "KM",
+        "TV",
+        "ST",
+        "TC",
+        "IO",
+        "MD",
+        "BO",
+        "NE",
+        "WF",
+        "BI",
+        "CD",
+        "GW",
+        "KY",
+        "TT",
+        "RE",
+        "ZW",
+        "SO",
+        "FI",
+        "KZ",
+        "CW",
+        "GF",
+        "PF",
+        "GH",
+        "GS",
+        "PH",
+        "TZ",
+        "TF",
+        "LV",
+        "YT",
+        "DJ",
+        "SR",
+        "KW",
+        "AT",
+        "NP",
+        "BJ",
+        "TM",
+        "VA",
+        "LB",
+        "MM",
+        "AS",
+        "MA",
+        "UM",
+        "LU",
+        "NA",
+        "NC",
+        "BR",
+        "PN",
+        "NI",
+        "LA",
+        "UZ",
+        "GL",
+        "SX",
+        "VC",
+        "FR",
+        "SJ",
+        "SY",
+        "BY",
+        "JP",
+        "US",
+        "SH",
+        "ZM",
+        "MG",
+        "BQ",
+        "CN",
+        "CM",
+        "NR",
+        "SC",
+        "BE",
+        "BT",
+        "AM",
+        "ML"
+      ],
+      "linkAlternates": [
+        {
+          "hrefUrl": "https://m.youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA"
+        },
+        {
+          "hrefUrl": "android-app://com.google.android.youtube/http/youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA"
+        },
+        {
+          "hrefUrl": "ios-app://544007664/http/youtube.com/channel/UCDrAR1OWC2MD4s0JLetN0MA"
+        }
+      ]
+    }
+  }
+}
